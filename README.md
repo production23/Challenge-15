@@ -1,6 +1,6 @@
 # Earthquake Visualization
 
-## This project visualizes earthquake data using Leaflet and D3.js, providing an interactive and informative way to explore seismic activity around the globe. The map displays earthquake markers that vary in size based on their magnitude and in color based on their depth, offering a clear and intuitive representation of the data.
+### This project visualizes earthquake data using Leaflet and D3.js, providing an interactive and informative way to explore seismic activity around the globe. The map displays earthquake markers that vary in size based on their magnitude and in color based on their depth, offering a clear and intuitive representation of the data.
 
 # Features
 ## Interactive Map: Navigate and zoom to different regions to explore earthquake activity in detail.
